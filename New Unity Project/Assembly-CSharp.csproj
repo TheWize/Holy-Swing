@@ -63,7 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\C#\Mouse.cs" />
     <Compile Include="Assets\C#\Player.cs" />
+    <Compile Include="Assets\C#\Shoulder.cs" />
     <Compile Include="Assets\C#\SwordController.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
